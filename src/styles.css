@@ -1,1 +1,12 @@
-/* You can add global styles to this file, and also import other style files */
+*{
+  margin: 0;
+  padding: 0;
+}
+.container{
+  background: linear-gradient(to right, #000 1%, red 100%);
+  color: #fff;
+  padding: 2vw 0vw;
+  height: 89vh;
+  display: flex;
+  align-items: center;
+}

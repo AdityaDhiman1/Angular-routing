@@ -1,0 +1,6 @@
+.about-section {
+  background: linear-gradient(to right, #000 1%, transparent 100%),
+  url("https://wallpaperaccess.com/full/430398.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}

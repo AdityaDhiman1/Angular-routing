@@ -1,0 +1,6 @@
+.home-section {
+  background: linear-gradient(to right, #000 1%, transparent 100%),
+  url("https://wallpapers.com/images/featured/captain-marvel-4k-lac4ny7q0d5iuyvt.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
