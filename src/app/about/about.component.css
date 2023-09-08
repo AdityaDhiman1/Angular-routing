@@ -4,3 +4,14 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
+@media only screen and (max-width: 680px) {
+
+  .about-section {
+
+    background: linear-gradient(to top, #000 1%, transparent 100%),
+    url(https://wallpaperaccess.com/full/893025.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  }

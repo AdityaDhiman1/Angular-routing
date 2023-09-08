@@ -4,3 +4,15 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+@media only screen and (max-width: 680px) {
+
+.home-section {
+
+  background: linear-gradient(to top, #000 1%, transparent 100%),
+  url("https://wallpapercave.com/wp/wp4581818.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+}
